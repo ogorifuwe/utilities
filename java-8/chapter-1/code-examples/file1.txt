@@ -1,0 +1,7 @@
+// use unix command -> cat file1.txt file2.txt | tr "[A-Z]" "[a-z]" | sort | tail -3
+// to concatenate, convert to lowercase characters, sort and print out the last 3 lines
+// of both files after it is sorted.
+file1: first word
+file1: second word
+file1: third word
+file1: fourth word
